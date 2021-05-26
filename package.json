@@ -1,0 +1,23 @@
+{
+  "name": "tech-test-qlue-performa-indonesia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getPrimes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brilianrn/tech-test-qlue-performa-indonesia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brilianrn/tech-test-qlue-performa-indonesia/issues"
+  },
+  "homepage": "https://github.com/brilianrn/tech-test-qlue-performa-indonesia#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
